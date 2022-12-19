@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Moraes-Bruno
-- 👀 I’m interested in HTML,CSS,PYTHON,WEB DESIGN,DATABASE
-- 🌱 I’m currently learning HTML,CSS,PYTHON
-- 📫 How to reach me email:Moraesbruno888@gmail.com
+<h1>Olá,eu sou Bruno Silva</h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moraes-Bruno&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moraes-Bruno&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
