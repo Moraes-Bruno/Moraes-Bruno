@@ -4,7 +4,7 @@
 
 <br>
 <div>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Moraes-Bruno&show_icons=true&theme=dracula">  
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Moraes-Bruno&show_icons=true&theme=dracula&pat_1">  
 <img height="200px" widht="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moraes-Bruno&layout=donut&theme=dracula">
 </div>
 <h2>Linguagens</h2>
