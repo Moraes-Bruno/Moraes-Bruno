@@ -30,6 +30,12 @@
 </div>
 
 
+<h3>Badges</h3>
+<div>
+<a href="https://badge.cps.sp.gov.br//view.aspx?25579147-5285-4737-be45-c7e8b1f0d422" target="_blank" style="border:1px solid gray; padding:10px;"><img height="100px" widht="100px" src="https://badge.cps.sp.gov.br/_files/60ecbd64c97644179b0a11b8320aa942.png"></a>
+<a href="https://badge.cps.sp.gov.br//view.aspx?1db4e211-70bf-46d3-9797-18d4c220c121" target="_blank" style="border:1px solid gray; padding:10px;"><img height="100px" widht="100px" src="https://badge.cps.sp.gov.br/_files/8ee8a13ab3864c6ca564f958e908e4a3.png"></a>
+</div>
+
 
 
 
